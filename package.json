@@ -1,0 +1,14 @@
+{
+  "name": "nyc-subway-icons",
+  "version": "0.1.0",
+  "description": "SVG icons based on NYC subway bullets",
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.1.x"
+  },
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-svg-sprite": "^1.1.0",
+    "vinyl": "^0.4.6"
+  }
+}

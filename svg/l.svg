@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="L">
+        <circle cx="45" cy="45" r="45" style="fill:rgb(167,169,172);"/>
+        <path d="M29.7168,21.0091L39.7428,21.0091L39.7428,60.3646L63.5059,60.3646L63.5059,68.9909L29.7168,68.9909L29.7168,21.0091Z" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+</svg>
