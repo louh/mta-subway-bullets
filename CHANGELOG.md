@@ -1,3 +1,7 @@
+# v0.3.1
+
+- Bump dependencies
+
 # v0.3.0
 
 - Add H bullet (post-Hurricane Sandy Rockaway Park shuttle)
