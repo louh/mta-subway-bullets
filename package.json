@@ -1,6 +1,6 @@
 {
   "name": "nyc-subway-icons",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "SVG icons based on NYC subway bullets",
   "engines": {
     "node": "8.x.x",
