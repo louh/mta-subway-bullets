@@ -1,6 +1,7 @@
 # v0.4.0
 
 - Add 6 and 7 diamond bullets
+- Compress all PNGs
 
 # v0.3.3
 
