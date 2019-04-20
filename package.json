@@ -6,9 +6,12 @@
     "node": "8.x.x",
     "npm": "6.x.x"
   },
+  "scripts": {
+    "start": "npm run build",
+    "build": "gulp"
+  },
   "devDependencies": {
     "gulp": "4.0.0",
-    "gulp-svg-sprite": "1.5.0",
-    "vinyl": "2.2.0"
+    "gulp-svg-sprite": "1.5.0"
   }
 }

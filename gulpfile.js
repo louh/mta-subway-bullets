@@ -1,6 +1,5 @@
 'use strict'
 
-var fs = require('fs')
 var gulp = require('gulp')
 var svgSprite = require('gulp-svg-sprite')
 var config = {
