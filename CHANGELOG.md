@@ -1,17 +1,21 @@
+# v0.4.0
+
+- Add 6 and 7 diamond bullets
+
 # v0.3.3
 
-- Moved all dependencies to devDependencies so its install footprint is smaller
+- Reassigned all dependencies to `devDependencies` so the package install footprint is smaller
 - Add build script to `npm start` command
 - Explicitly set `files` array in `package.json`
 
 # v0.3.2
 
-- Bump gulp@4.0.0 to resolve security vulnerabilities
+- Update `gulp@4.0.0` to resolve security vulnerabilities
 - Can now be installed with `npm install nyc-subway-icons`
 
 # v0.3.1
 
-- Bump dependencies
+- Update dependencies
 
 # v0.3.0
 
