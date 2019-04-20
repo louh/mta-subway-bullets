@@ -77,6 +77,6 @@ for svg in ./svg/*.svg; do rsvg-convert -o "${svg%.svg}".png "$svg"; done
 
 ## License
 
-I claim no ownership or rights over this work.
+This repository is not the official work of the MTA and I have no affiliation with the MTA. I claim no ownership or rights over this work.
 
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
