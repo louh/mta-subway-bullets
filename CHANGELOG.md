@@ -1,5 +1,6 @@
 # v0.4.0
 
+- **NOTE:** Package has been renamed to `mta-subway-bullets`.
 - Add 6 and 7 diamond bullets
 - Compress all PNGs
 
@@ -12,7 +13,7 @@
 # v0.3.2
 
 - Update `gulp@4.0.0` to resolve security vulnerabilities
-- Can now be installed with `npm install nyc-subway-icons`
+- Can now be installed with `npm install`
 
 # v0.3.1
 
