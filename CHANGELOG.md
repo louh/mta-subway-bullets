@@ -1,3 +1,7 @@
+# v0.4.1
+
+- Fix relative sizes of H and T bullets
+
 # v0.4.0
 
 - **NOTE:** Package has been renamed to `mta-subway-bullets`.
