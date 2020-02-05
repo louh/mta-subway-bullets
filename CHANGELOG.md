@@ -1,3 +1,9 @@
+# v0.5.0
+
+- Add SR and SF bullets
+- Update SIR bullet color and text size
+- Recompress PNGs
+
 # v0.4.1
 
 - Fix relative sizes of H and T bullets
