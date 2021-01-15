@@ -1,3 +1,8 @@
+# v0.5.1
+
+- Remove `engines` field from `package.json`
+- Security updates for dependencies
+
 # v0.5.0
 
 - Add SR and SF bullets
