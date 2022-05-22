@@ -19,6 +19,7 @@ SVG icons based on current New York City MTA subway lines.
 <img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/b.svg" alt="b" width="48">
 <img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/d.svg" alt="d" width="48">
 <img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/f.svg" alt="f" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/f.svg" alt="fd" width="48">
 <img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/m.svg" alt="m" width="48">
 <img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/g.svg" alt="g" width="48">
 <img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/j.svg" alt="j" width="48">
@@ -41,9 +42,9 @@ SVG icons based on current New York City MTA subway lines.
 * Uses the [official MTA colors](http://web.mta.info/developers/resources/line_colors.htm).
 * __Notes:__
   * There's no official color for the SIR (Staten Island Railway) line; this now uses the latest color on the new MTA website.
-  * There's no official color for the planned T (Second Avenue) line; this color was adapted from internal MTA sources. 
+  * There's no official color for the planned T (Second Avenue) line; this color was adapted from internal MTA sources.
 * A good resource for SVG icons exist in the public domain on [Wikipedia](http://commons.wikimedia.org/wiki/New_York_City_Subway_bullets), which includes historical lines. I referred to these for guidance, but created my own from scratch. In comparison, I increased the X-height of each letter in relationship to the circle in my version. This allows each bullet to "read" better when used as part of inline text, such as in MTA status alerts.
-* Because of the shape of the diamond bullets, they seem "smaller" when used side by side with the circle bullets. I recommend increasing the size of the diamond bullets by about 15-20% to make the numbers more legible. 
+* Because of the shape of the diamond bullets, they seem "smaller" when used side by side with the circle bullets. I recommend increasing the size of the diamond bullets by about 15-20% to make the numbers more legible.
 
 ### Examples of usage in the wild
 
