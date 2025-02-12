@@ -48,7 +48,7 @@ SVG icons based on current New York City MTA subway lines.
 
 ### Examples of usage in the wild
 
-* The [MTA Weekender Unofficial HD Remaster](https://weekender.netlify.com/), my update of the [MTA's Weekender](http://web.mta.info/weekender/servicestatus.html). ([GitHub](https://github.com/louh/weekender))
+* The [MTA Weekender Unofficial HD Remaster](https://louhuang.com/weekender-hd-remaster/), my update of the [MTA's Weekender](http://web.mta.info/weekender/servicestatus.html) (now retired). ([GitHub](https://github.com/louh/weekender))
 * [Signal sticker pack](https://signal.art/addstickers/#pack_id=14994fdf754d54904483a50523e4cfe2&pack_key=a607d7b07c3ca8626ea5f6dd51eefb8e7e9f05829d966aa496ea737ec04b525a) by [Parker Higgens](https://twitter.com/xor/status/1223413178253697025).
 
 
