@@ -4,37 +4,37 @@ mta-subway-bullets
 SVG icons based on current New York City MTA subway lines.
 
 <p>
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/1.svg" alt="1" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/2.svg" alt="2" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/3.svg" alt="3" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/4.svg" alt="4" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/5.svg" alt="5" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/6.svg" alt="6" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/6d.svg" alt="6d" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/7.svg" alt="7" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/7d.svg" alt="7d" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/a.svg" alt="a" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/c.svg" alt="c" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/e.svg" alt="e" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/b.svg" alt="b" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/d.svg" alt="d" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/f.svg" alt="f" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/f.svg" alt="fd" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/m.svg" alt="m" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/g.svg" alt="g" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/j.svg" alt="j" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/z.svg" alt="z" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/l.svg" alt="l" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/n.svg" alt="n" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/q.svg" alt="q" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/r.svg" alt="r" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/w.svg" alt="w" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/sf.svg" alt="sf" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/s.svg" alt="s" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/sr.svg" alt="sr" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/sir.svg" alt="sir" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/h.svg" alt="h" width="48">
-<img src="https://unpkg.com/mta-subway-bullets@0.5.0/svg/t.svg" alt="t" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/1.svg" alt="1" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/2.svg" alt="2" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/3.svg" alt="3" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/4.svg" alt="4" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/5.svg" alt="5" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/6.svg" alt="6" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/6d.svg" alt="6d" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/7.svg" alt="7" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/7d.svg" alt="7d" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/a.svg" alt="a" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/c.svg" alt="c" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/e.svg" alt="e" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/b.svg" alt="b" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/d.svg" alt="d" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/f.svg" alt="f" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/fd.svg" alt="fd" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/m.svg" alt="m" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/g.svg" alt="g" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/j.svg" alt="j" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/z.svg" alt="z" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/l.svg" alt="l" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/n.svg" alt="n" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/q.svg" alt="q" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/r.svg" alt="r" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/w.svg" alt="w" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/sf.svg" alt="sf" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/s.svg" alt="s" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/sr.svg" alt="sr" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/sir.svg" alt="sir" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/h.svg" alt="h" width="48">
+<img src="https://unpkg.com/mta-subway-bullets@0.6.0/svg/t.svg" alt="t" width="48">
 </p>
 
 ## Some notes

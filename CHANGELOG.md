@@ -1,3 +1,7 @@
+# v0.6.0
+
+- Add F diamond bullet (thanks ![@cederbaum](https://github.com/louh/mta-subway-bullets/pull/21)!)
+
 # v0.5.1
 
 - Remove `engines` field from `package.json`
