@@ -1,8 +1,7 @@
-'use strict'
+import gulp from 'gulp'
+import svgSprite from 'gulp-svg-sprite'
 
-var gulp = require('gulp')
-var svgSprite = require('gulp-svg-sprite')
-var config = {
+const config = {
   mode: {
     shape: {
       padding: 10
@@ -15,8 +14,8 @@ var config = {
   }
 }
 
-gulp.task('default', function () {
-  return gulp.src('svg/*.svg')
+gulp.task('default', () =>
+  gulp.src('svg/*.svg')
     .pipe(svgSprite(config))
     .pipe(gulp.dest('build'))
-})
+)

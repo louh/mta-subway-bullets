@@ -2,6 +2,7 @@
   "name": "mta-subway-bullets",
   "version": "0.6.0",
   "description": "SVG icons based on NYC subway bullets",
+  "type": "module",
   "scripts": {
     "start": "npm run build",
     "build": "gulp"
