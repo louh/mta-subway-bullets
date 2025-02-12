@@ -11,7 +11,7 @@
     "svg"
   ],
   "devDependencies": {
-    "gulp": "4.0.2",
-    "gulp-svg-sprite": "1.5.0"
+    "gulp": "5.0.0",
+    "gulp-svg-sprite": "2.0.3"
   }
 }
