@@ -8,8 +8,8 @@
     "build": "gulp"
   },
   "files": [
-    "build",
-    "svg"
+    "dist",
+    "src/svg"
   ],
   "devDependencies": {
     "gulp": "5.0.0",

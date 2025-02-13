@@ -78,7 +78,7 @@ brew install librsvg
 Then:
 
 ```sh
-for svg in ./svg/*.svg; do rsvg-convert -o "${svg%.svg}".png "$svg"; done
+for svg in ./src/svg/*.svg; do rsvg-convert -o "${svg%.svg}".png "$svg"; done
 ```
 
 For convenience, a set of optimized PNGs (90px ✕ 90px) is included in the `./build/png` directory.
