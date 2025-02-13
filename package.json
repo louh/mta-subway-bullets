@@ -4,17 +4,15 @@
   "description": "SVG icons based on NYC subway bullets",
   "type": "module",
   "scripts": {
-    "start": "npm run build",
-    "build": "gulp"
+    "start": "node ./src/index.js"
   },
   "files": [
     "dist",
     "src/svg"
   ],
   "devDependencies": {
-    "gulp": "5.0.0",
-    "gulp-svg-sprite": "2.0.3",
     "sharp": "0.33.5",
+    "svg-sprite": "2.0.4",
     "svgo": "3.3.2"
   }
 }
