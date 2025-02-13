@@ -3,10 +3,7 @@ import path from 'node:path'
 import { optimize } from 'svgo'
 import { processSourceSvgs } from './utils.js'
 
-const sourcePath = './src/svg'
-const outputPath = './dist/svg'
-
-export async function compressSvgs () {
+export async function compressSvgs (sourcePath, outputPath) {
   await processSourceSvgs(sourcePath, async (file) => {
     const inputFilePath = path.join(sourcePath, file)
     const outputFilePath = path.join(outputPath, file)

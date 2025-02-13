@@ -2,10 +2,7 @@ import path from 'node:path'
 import sharp from 'sharp'
 import { processSourceSvgs } from './utils.js'
 
-const sourcePath = './src/svg'
-const outputPath = './dist/png'
-
-export async function convertSvgsToPngs () {
+export async function convertSvgsToPngs (sourcePath, outputPath) {
   await processSourceSvgs(sourcePath, async (file) => {
     const inputFilePath = path.join(sourcePath, file)
     const outputFilePath = path.join(outputPath, `${path.basename(file, '.svg')}.png`)
