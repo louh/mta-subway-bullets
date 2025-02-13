@@ -13,6 +13,8 @@
   ],
   "devDependencies": {
     "gulp": "5.0.0",
-    "gulp-svg-sprite": "2.0.3"
+    "gulp-svg-sprite": "2.0.3",
+    "sharp": "0.33.5",
+    "svgo": "3.3.2"
   }
 }
