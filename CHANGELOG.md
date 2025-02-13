@@ -1,3 +1,13 @@
+# v1.0.0
+
+- **🚨 BREAKING CHANGES! 🚨**
+  - Modernized build pipeline (no longer depends on Gulp).
+  - **New:** optimized SVGs (via SVGO) are now provided as part of the package.
+  - **New:** optimizing PNGs is now part of the build command, rather than a separate step.
+  - All optimized SVGs and PNGs have been moved into respective folders in `dist` (formerly `build`). This will break file paths if you were importing directly from the package.
+  - Source SVGs and build scripts are now located in `src` (formerly `source` or did not exist). Source SVGs are uncompressed but continue to be provided with the package anyway in case you need to use them.
+- Fixed the F diamond bullet not appearing in the symbol bundle (`icons.svg`)
+
 # v0.6.0
 
 - Add F diamond bullet (thanks ![@cedarbaum](https://github.com/louh/mta-subway-bullets/pull/21)!)
