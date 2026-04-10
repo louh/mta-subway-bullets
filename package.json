@@ -1,6 +1,6 @@
 {
   "name": "mta-subway-bullets",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "SVG icons based on NYC subway bullets",
   "type": "module",
   "scripts": {
