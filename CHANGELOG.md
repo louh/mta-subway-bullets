@@ -1,3 +1,8 @@
+# v1.1.0
+
+- Fixed background color of A, C, E and H bullets to match MTA design guidelines. (thanks ![@dep-42](https://github.com/louh/mta-subway-bullets/pull/32)!)
+- Update dependencies
+
 # v1.0.0
 
 - **🚨 BREAKING CHANGES! 🚨**
