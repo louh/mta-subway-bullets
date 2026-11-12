@@ -70,12 +70,6 @@ You can install this in a Node project with a package manager, e.g.
 npm install mta-subway-bullets
 ```
 
-or
-
-```sh
-yarn add mta-subway-bullets
-```
-
 ## License
 
 This repository is not the official work of the MTA and I have no affiliation with the MTA. I claim no ownership or rights over this work.
